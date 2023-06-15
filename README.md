@@ -1,6 +1,6 @@
 - 👋 Hi, I’m saijagadeesh
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Java fullstack
+- 🌱 I'm a Java fullstack Developer
 - 💞️ I’m looking to collaborate on Developing crazy websites
 - 📫 How to reach me saijagadeeshgorli9@gmail.com
 
